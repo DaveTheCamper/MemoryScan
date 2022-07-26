@@ -1,0 +1,3 @@
+base_moeda=102477200
+base_fechado=34310372
+base_conexao=34395980
